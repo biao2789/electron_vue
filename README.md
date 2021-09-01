@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # electron-vue-admin
 
 > An electron-vue project
@@ -34,3 +35,7 @@ npm run pack
 
 ## Download
 Mac: [app release](https://github.com/PanJiaChen/electron-vue-admin/releases/tag/v3.0.0)
+=======
+# electron_vue
+a easy onboarding configuration tool use VUE and build with electron
+>>>>>>> 2e57199c388bc15e45ca2fc380b58cc0956d6021
